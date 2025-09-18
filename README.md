@@ -21,4 +21,4 @@ Navigation bar styled like a streaming service
 
 Clean, minimal UI inspired by Netflix
 
-Live URL- movie-glimpse.netlify.app
+Live URL- https://movie-glimpse.netlify.app/
