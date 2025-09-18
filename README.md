@@ -1,6 +1,6 @@
-**🎬 StreamWorld**
+**🎬 Movix**
 
-StreamWorld is a simple web project built to practice frontend development concepts.
+Movix is a simple web project built to practice frontend development concepts.
 It replicates the look and feel of a popular streaming platform’s UI, providing a hands-on way to explore layouts, styling, and interactive elements.
 
 **🚀 Tech Stack**
@@ -21,3 +21,4 @@ Navigation bar styled like a streaming service
 
 Clean, minimal UI inspired by Netflix
 
+Live URL- https://storied-smakager-e63aa1.netlify.app/
