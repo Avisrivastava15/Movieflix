@@ -1,6 +1,6 @@
-**🎬 MovieFlix**
+**🎬 StreamWorld**
 
-MovieFlix is a simple web project built to practice frontend development concepts.
+StreamWorld is a simple web project built to practice frontend development concepts.
 It replicates the look and feel of a popular streaming platform’s UI, providing a hands-on way to explore layouts, styling, and interactive elements.
 
 **🚀 Tech Stack**
